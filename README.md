@@ -1,0 +1,2 @@
+# GeometriesAdmittingTrialitiesForSymAndAlt
+GeometriesAdmittingTrialitiesForSymAndAlt
