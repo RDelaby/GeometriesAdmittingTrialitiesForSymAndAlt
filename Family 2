@@ -1,5 +1,5 @@
 /*
-Constuction of family 2.
+Constuction of family 2. 4+3n is the number of vertices of V.
 */
 
 n := 6;
