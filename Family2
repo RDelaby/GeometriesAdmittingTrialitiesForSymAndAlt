@@ -2,7 +2,7 @@
 Construction of family 2. 4+3*n is the number of vertices of G.
 */
 
-n := 4;
+n := 6;
 
 G := Sym(4+3*n);
 
