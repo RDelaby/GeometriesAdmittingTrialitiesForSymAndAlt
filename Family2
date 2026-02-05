@@ -1,10 +1,10 @@
 /*
-Construction of family 2. n = 16+6k is the number of vertices of G.
+Construction of family 2. 4+3*n is the number of vertices of G.
 */
 
-k = 2;
+n := 5;
 
-G := Sym(16+6*k);
+G := Sym(4+3*n);
 
 e := [];
 
