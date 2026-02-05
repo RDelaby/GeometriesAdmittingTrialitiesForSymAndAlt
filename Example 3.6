@@ -1,0 +1,12 @@
+G := Sym(10);
+r_1 := G!(1,2)(4,5)(6,7)(9,10);
+r_2 := G!(2,3)(5,6)(8,9);
+r_3 := G!(3,4)(7,8);
+
+W := sub<G|r_1,r_2,r_3>;
+G1 := sub<W|r_2,r_3>;
+G2 := sub<W|r_1,r_3>;
+G3 := sub<W|r_1,r_2>;
+cg := CosetGeometry(W,{G1,G2,G3});
+
+IsFTGeometry(cg);
