@@ -1,5 +1,5 @@
 /*
-Construction of family 1. n = 13+9k is the number of vertices of V.
+Construction of family 1. n = 13+9k is the number of vertices of V. The code is copy pastable, change the value of k below to create different members of this family.
 */
 
 k := 1;
