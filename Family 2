@@ -1,5 +1,5 @@
 /*
-Constuction of family 2. 4+3n is the number of vertices of V.
+Constuction of family 2. 4+3n is the number of vertices of V. The code is copy pastable, change the value of n below to create different members of this family.
 */
 
 n := 6;
